@@ -1,0 +1,5 @@
+*.yaml
+*.csv
+Data
+.ipynb_checkpoints
+*.docx
